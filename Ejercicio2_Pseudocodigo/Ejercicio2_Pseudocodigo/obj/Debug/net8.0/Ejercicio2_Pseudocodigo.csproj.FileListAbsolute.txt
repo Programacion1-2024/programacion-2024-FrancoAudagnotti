@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\bin\Debug\net8.0\Ejercicio2_Pseudocodigo.exe
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\bin\Debug\net8.0\Ejercicio2_Pseudocodigo.deps.json
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\bin\Debug\net8.0\Ejercicio2_Pseudocodigo.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\bin\Debug\net8.0\Ejercicio2_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\bin\Debug\net8.0\Ejercicio2_Pseudocodigo.pdb
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\refint\Ejercicio2_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.pdb
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\Ejercicio2_Pseudocodigo.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicio2_Pseudocodigo\Ejercicio2_Pseudocodigo\obj\Debug\net8.0\ref\Ejercicio2_Pseudocodigo.dll
