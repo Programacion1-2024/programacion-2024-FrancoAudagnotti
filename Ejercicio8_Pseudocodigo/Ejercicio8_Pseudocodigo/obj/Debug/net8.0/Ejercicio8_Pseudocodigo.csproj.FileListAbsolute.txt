@@ -26,3 +26,18 @@ C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicios_Pseudocod
 C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicios_Pseudocodigo\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.pdb
 C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicios_Pseudocodigo\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.genruntimeconfig.cache
 C:\Users\franc\OneDrive\Escritorio\ICES\2do\Programación I\Ejercicios_Pseudocodigo\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\ref\Ejercicio8_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\bin\Debug\net8.0\Ejercicio8_Pseudocodigo.exe
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\bin\Debug\net8.0\Ejercicio8_Pseudocodigo.deps.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\bin\Debug\net8.0\Ejercicio8_Pseudocodigo.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\bin\Debug\net8.0\Ejercicio8_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\bin\Debug\net8.0\Ejercicio8_Pseudocodigo.pdb
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.sourcelink.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\refint\Ejercicio8_Pseudocodigo.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.pdb
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\Ejercicio8_Pseudocodigo.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicio8_Pseudocodigo\Ejercicio8_Pseudocodigo\obj\Debug\net8.0\ref\Ejercicio8_Pseudocodigo.dll

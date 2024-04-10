@@ -4,7 +4,7 @@ Console.Write("Ingrese un número: ");
 if(int.TryParse(Console.ReadLine(), out numero1))
 {
     Console.Write("Ingrese otro número: ");
-    if (int.Parse(Console.ReadLine(), out numero2))
+    if (int.TryParse(Console.ReadLine(), out numero2))
     {
         Console.Write("Ingrese nuevamente otro número: ");
         if (int.TryParse(Console.ReadLine(), out numero3))
