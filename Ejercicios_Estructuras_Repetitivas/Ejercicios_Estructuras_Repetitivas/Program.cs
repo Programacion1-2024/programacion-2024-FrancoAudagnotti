@@ -139,7 +139,7 @@ class Program
 
         }
         Console.WriteLine($"El cliente con el mayor gasto es {clienteMayorGasto}, con un total de ${(double)mayorGasto}.");*/
-        
+
 
 
         //Ejercicio 6
@@ -155,5 +155,20 @@ class Program
             }
             Console.WriteLine($"El factorial de {numero} es {multiplicacion}");
         }*/
+
+        //Ejercicio 7
+
+        Console.Write("Ingrese un número positivo: ");
+        if(float.TryParse(Console.ReadLine(), out float N))
+        {
+            for (int i = 0; i <= N; i += 2)
+            {
+                Console.Write($"; {i}");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Error, debe ingresar un número.");
+        }
     }
 }
