@@ -23,7 +23,7 @@ class Program
             }
         }
         Console.WriteLine($"La suma de los 5 numeros es: {suma}"); */
-        
+
         //Ejercicio 2
         /*Console.WriteLine("Ingrese 8 números enteros: ");
 
@@ -104,12 +104,56 @@ class Program
 
         // Ejercicio 5
 
-        Console.WriteLine("A continuación ingrese lo solicitado: ");
+
+        /*string clienteMayorGasto = "";
+        double mayorGasto = 0;
         
         for (int i = 1; i <= 5; i++)
         {
-            Console.Write("Nombre de Cliente: ");
+            Console.Write("Ingrese nombre de Cliente: ");
+            string nombreCliente = Console.ReadLine();
+
+            
+            if (string.IsNullOrEmpty(nombreCliente))
+            {
+                Console.WriteLine("Debe ingresar un nombre de un Cliente");
+                i--;
+            }
+            else
+            {
+                Console.Write($"Ingrese total gastado de {nombreCliente}: ");
+                if (double.TryParse(Console.ReadLine()?.Replace(".", ","), out double totalGastado))
+                {
+                    if(totalGastado > mayorGasto)
+                    {
+                        mayorGasto = totalGastado;
+                        clienteMayorGasto = nombreCliente;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Error, debe ingresar un valor numérico");
+                    i--;
+                }
+            }
+
         }
+        Console.WriteLine($"El cliente con el mayor gasto es {clienteMayorGasto}, con un total de ${(double)mayorGasto}.");*/
         
+
+
+        //Ejercicio 6
+
+        /*int multiplicacion = 1;
+
+        Console.Write("Ingrese un número: ");
+        if (int.TryParse(Console.ReadLine(), out int numero))
+        {
+            for (int i = 1; i <= numero; i++)
+            {
+                multiplicacion *= i; 
+            }
+            Console.WriteLine($"El factorial de {numero} es {multiplicacion}");
+        }*/
     }
 }
