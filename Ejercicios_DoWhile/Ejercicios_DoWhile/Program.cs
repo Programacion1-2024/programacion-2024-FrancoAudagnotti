@@ -61,6 +61,10 @@
 //{
 //    Console.WriteLine($"El promedio de los negativos es: {promedio}");
 //}
+//else
+//{
+//    Console.WriteLine("No hay promedio");
+//}
 
 
 ////Ejercicio 4
@@ -84,6 +88,10 @@
 //{
 //    Console.WriteLine($"el promedio es: {total}");
 //}
+//else
+//{
+//    Console.WriteLine("No hay promedio");
+//}
 
 
 ////Ejercicio 5
@@ -101,16 +109,22 @@
 //        Console.WriteLine("error, vuelva a ingresar un número");
 
 //    }
-//    else if (numero < 100)
+//    else if (numero < 100 && numero > 100)
 //    {
 //        i += 1;
 //        total += numero;
-//        promedio = total / i;
+        
 //    }
-//} while (numero < 100);
+//} while (numero < 100 && numero > 100);
 
-//if (promedio != 0)
+//promedio = total / i;
+
+//if (i != 0)
 //{
-//    Console.WriteLine($"el promedio es: {promedio}");
+//    Console.WriteLine($"El promedio es: {promedio}");
+//}
+//else
+//{
+//    Console.WriteLine("No hay promedio");
 //}
 

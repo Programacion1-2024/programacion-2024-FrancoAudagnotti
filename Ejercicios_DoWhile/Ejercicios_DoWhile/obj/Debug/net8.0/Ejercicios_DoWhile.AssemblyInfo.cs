@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicios_DoWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13a39266fd39803f67d507d6be6aac0e47d5950")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ada01f08a09c3c2fda6804ac48826a5e6d1c2e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicios_DoWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicios_DoWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
