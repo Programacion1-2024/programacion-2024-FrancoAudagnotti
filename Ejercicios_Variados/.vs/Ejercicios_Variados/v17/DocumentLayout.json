@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Ejercicios_Variados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{344846B0-E01B-41A2-9B0D-F60BEBF2FFA9}|Ejercicios_Variados\\Ejercicios_Variados.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\ejercicios_variados\\ejercicios_variados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344846B0-E01B-41A2-9B0D-F60BEBF2FFA9}|Ejercicios_Variados\\Ejercicios_Variados.csproj|solutionrelative:ejercicios_variados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Ejercicios_Variados\\Ejercicios_Variados\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios_Variados\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Ejercicios_Variados\\Ejercicios_Variados\\Program.cs",
+              "RelativeToolTip": "Ejercicios_Variados\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:46:10.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

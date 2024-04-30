@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\bin\Debug\net8.0\Ejercicios_Variados.exe
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\bin\Debug\net8.0\Ejercicios_Variados.deps.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\bin\Debug\net8.0\Ejercicios_Variados.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\bin\Debug\net8.0\Ejercicios_Variados.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\bin\Debug\net8.0\Ejercicios_Variados.pdb
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.sourcelink.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\refint\Ejercicios_Variados.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.pdb
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\Ejercicios_Variados.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Variados\Ejercicios_Variados\obj\Debug\net8.0\ref\Ejercicios_Variados.dll
