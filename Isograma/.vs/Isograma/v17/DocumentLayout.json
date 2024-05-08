@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\Ejercicios-Para-Clases\\Isograma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1500D1B9-FF44-419D-9565-58F8EC5C5050}|Isograma\\Isograma.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\ejercicios-para-clases\\isograma\\isograma\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1500D1B9-FF44-419D-9565-58F8EC5C5050}|Isograma\\Isograma.csproj|solutionrelative:isograma\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1500D1B9-FF44-419D-9565-58F8EC5C5050}|Isograma\\Isograma.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\ejercicios-para-clases\\isograma\\isograma\\isogramatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1500D1B9-FF44-419D-9565-58F8EC5C5050}|Isograma\\Isograma.csproj|solutionrelative:isograma\\isogramatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\Ejercicios-Para-Clases\\Isograma\\Isograma\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Isograma\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\Ejercicios-Para-Clases\\Isograma\\Isograma\\Ejercicio.cs",
+              "RelativeToolTip": "Isograma\\Ejercicio.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:20:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsogramaTests.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\Ejercicios-Para-Clases\\Isograma\\Isograma\\IsogramaTests.cs",
+              "RelativeDocumentMoniker": "Isograma\\IsogramaTests.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\Ejercicios-Para-Clases\\Isograma\\Isograma\\IsogramaTests.cs",
+              "RelativeToolTip": "Isograma\\IsogramaTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:21:01.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
