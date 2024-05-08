@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\bin\Debug\net8.0\Ejercicios_Arreglos.exe
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\bin\Debug\net8.0\Ejercicios_Arreglos.deps.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\bin\Debug\net8.0\Ejercicios_Arreglos.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\bin\Debug\net8.0\Ejercicios_Arreglos.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\bin\Debug\net8.0\Ejercicios_Arreglos.pdb
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.sourcelink.json
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\refint\Ejercicios_Arreglos.dll
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.pdb
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\Ejercicios_Arreglos.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Ejercicios_Arreglos\Ejercicios_Arreglos\obj\Debug\net8.0\ref\Ejercicios_Arreglos.dll
