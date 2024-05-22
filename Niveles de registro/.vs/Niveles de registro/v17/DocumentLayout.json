@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Niveles de registro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208049E9-860B-42FC-89B4-B2E4AE8E59A9}|Niveles de registro\\Niveles de registro.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\niveles de registro\\niveles de registro\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208049E9-860B-42FC-89B4-B2E4AE8E59A9}|Niveles de registro\\Niveles de registro.csproj|solutionrelative:niveles de registro\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208049E9-860B-42FC-89B4-B2E4AE8E59A9}|Niveles de registro\\Niveles de registro.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\niveles de registro\\niveles de registro\\nivelesderegistrotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208049E9-860B-42FC-89B4-B2E4AE8E59A9}|Niveles de registro\\Niveles de registro.csproj|solutionrelative:niveles de registro\\nivelesderegistrotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NivelesDeRegistroTests.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Niveles de registro\\Niveles de registro\\NivelesDeRegistroTests.cs",
+              "RelativeDocumentMoniker": "Niveles de registro\\NivelesDeRegistroTests.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Niveles de registro\\Niveles de registro\\NivelesDeRegistroTests.cs",
+              "RelativeToolTip": "Niveles de registro\\NivelesDeRegistroTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:37:03.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Niveles de registro\\Niveles de registro\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Niveles de registro\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Niveles de registro\\Niveles de registro\\Ejercicio.cs",
+              "RelativeToolTip": "Niveles de registro\\Ejercicio.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwFUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:37:01.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
