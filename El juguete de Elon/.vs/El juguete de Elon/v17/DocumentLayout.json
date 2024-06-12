@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\El juguete de Elon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67698DA2-5BBA-4E87-B012-DCEBB54976F8}|El juguete de Elon\\El juguete de Elon.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\el juguete de elon\\el juguete de elon\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67698DA2-5BBA-4E87-B012-DCEBB54976F8}|El juguete de Elon\\El juguete de Elon.csproj|solutionrelative:el juguete de elon\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67698DA2-5BBA-4E87-B012-DCEBB54976F8}|El juguete de Elon\\El juguete de Elon.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\el juguete de elon\\el juguete de elon\\eljuguetedeelontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67698DA2-5BBA-4E87-B012-DCEBB54976F8}|El juguete de Elon\\El juguete de Elon.csproj|solutionrelative:el juguete de elon\\eljuguetedeelontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\El juguete de Elon\\El juguete de Elon\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "El juguete de Elon\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\El juguete de Elon\\El juguete de Elon\\Ejercicio.cs",
+              "RelativeToolTip": "El juguete de Elon\\Ejercicio.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAxwGEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:41:45.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElJugueteDeElonTests.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\El juguete de Elon\\El juguete de Elon\\ElJugueteDeElonTests.cs",
+              "RelativeDocumentMoniker": "El juguete de Elon\\ElJugueteDeElonTests.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\El juguete de Elon\\El juguete de Elon\\ElJugueteDeElonTests.cs",
+              "RelativeToolTip": "El juguete de Elon\\ElJugueteDeElonTests.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwFkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:41:46.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
