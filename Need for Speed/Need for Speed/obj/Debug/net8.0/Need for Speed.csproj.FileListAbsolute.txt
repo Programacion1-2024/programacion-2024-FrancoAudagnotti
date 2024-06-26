@@ -1,0 +1,6 @@
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Need for Speed\Need for Speed\obj\Debug\net8.0\Need for Speed.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Need for Speed\Need for Speed\obj\Debug\net8.0\Need for Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Need for Speed\Need for Speed\obj\Debug\net8.0\Need for Speed.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Need for Speed\Need for Speed\obj\Debug\net8.0\Need for Speed.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Need for Speed\Need for Speed\obj\Debug\net8.0\Need for Speed.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\Need for Speed\Need for Speed\obj\Debug\net8.0\Need for Speed.sourcelink.json

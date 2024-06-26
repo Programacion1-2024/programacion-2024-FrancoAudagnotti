@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Need for Speed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3CB613-B6F1-4690-A1A9-7270073CA9F7}|Need for Speed\\Need for Speed.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\need for speed\\need for speed\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3CB613-B6F1-4690-A1A9-7270073CA9F7}|Need for Speed\\Need for Speed.csproj|solutionrelative:need for speed\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3CB613-B6F1-4690-A1A9-7270073CA9F7}|Need for Speed\\Need for Speed.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\need for speed\\need for speed\\needforspeedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3CB613-B6F1-4690-A1A9-7270073CA9F7}|Need for Speed\\Need for Speed.csproj|solutionrelative:need for speed\\needforspeedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Need for Speed\\Need for Speed\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Need for Speed\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Need for Speed\\Need for Speed\\Ejercicio.cs",
+              "RelativeToolTip": "Need for Speed\\Ejercicio.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:19:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeedForSpeedTests.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Need for Speed\\Need for Speed\\NeedForSpeedTests.cs",
+              "RelativeDocumentMoniker": "Need for Speed\\NeedForSpeedTests.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Need for Speed\\Need for Speed\\NeedForSpeedTests.cs",
+              "RelativeToolTip": "Need for Speed\\NeedForSpeedTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:19:51.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
