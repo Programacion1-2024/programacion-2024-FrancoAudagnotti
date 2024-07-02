@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\ICES\\2do\\Programaci\u00F3n I\\Ejercicios_Pseudocodigo\\Ejercicio4_Pseudocodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A888861-14D0-488C-A131-716B09A3506B}|Ejercicio4_Pseudocodigo\\Ejercicio4_Pseudocodigo.csproj|c:\\users\\franc\\onedrive\\escritorio\\ices\\2do\\programaci\u00F3n i\\ejercicios_pseudocodigo\\ejercicio4_pseudocodigo\\ejercicio4_pseudocodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A888861-14D0-488C-A131-716B09A3506B}|Ejercicio4_Pseudocodigo\\Ejercicio4_Pseudocodigo.csproj|solutionrelative:ejercicio4_pseudocodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\ICES\\2do\\Programaci\u00F3n I\\Ejercicios_Pseudocodigo\\Ejercicio4_Pseudocodigo\\Ejercicio4_Pseudocodigo\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Pseudocodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\ICES\\2do\\Programaci\u00F3n I\\Ejercicios_Pseudocodigo\\Ejercicio4_Pseudocodigo\\Ejercicio4_Pseudocodigo\\Program.cs",
+              "RelativeToolTip": "Ejercicio4_Pseudocodigo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:05:21.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
