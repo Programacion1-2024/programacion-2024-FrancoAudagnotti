@@ -4,6 +4,7 @@ using CDatos.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CDatos.Migrations
 {
     [DbContext(typeof(LibreriaContext))]
-    partial class LibreriaContextModelSnapshot : ModelSnapshot
+    [Migration("20240703223447_relaciones de venta y de prestamo")]
+    partial class relacionesdeventaydeprestamo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -31,18 +34,22 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdAutor"));
 
-                    b.Property<string>("Biografia")
+                    b.Property<string>("BiografiaAutor")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("CantidadLibrosEscritos")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("FechaNacimiento")
+                    b.Property<DateTime>("FechaNacimientoAutor")
                         .HasColumnType("datetime2");
 
                     b.Property<int?>("IdPersona")
                         .HasColumnType("int");
+
+                    b.Property<string>("NacionalidadAutor")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("IdAutor")
                         .HasName("PK_ID_AUTOR");
@@ -113,10 +120,13 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdCopia"));
 
+                    b.Property<int>("CantidadCopia")
+                        .HasColumnType("int");
+
                     b.Property<int?>("IdLibro")
                         .HasColumnType("int");
 
-                    b.Property<double>("PrecioPrestamo")
+                    b.Property<double>("PrecioCopia")
                         .HasColumnType("float");
 
                     b.HasKey("IdCopia")
@@ -135,15 +145,11 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdEditorial"));
 
-                    b.Property<string>("Contacto")
+                    b.Property<string>("ContactoEditorial")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Direccion")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Nombre")
+                    b.Property<string>("DireccionEditorial")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -192,7 +198,7 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdFormaPago"));
 
-                    b.Property<string>("Descripcion")
+                    b.Property<string>("DescripcionFormaPago")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -210,7 +216,7 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdGenero"));
 
-                    b.Property<string>("Descripcion")
+                    b.Property<string>("DescripcionGenero")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -252,11 +258,11 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdLibro"));
 
-                    b.Property<string>("AnioPublicacion")
+                    b.Property<string>("AnioPublicacionLibro")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Descripcion")
+                    b.Property<string>("DescripcionLibro")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -267,10 +273,10 @@ namespace CDatos.Migrations
                     b.Property<int>("IdEditorial")
                         .HasColumnType("int");
 
-                    b.Property<float>("PrecioVenta")
+                    b.Property<float>("PrecioVentaLibro")
                         .HasColumnType("real");
 
-                    b.Property<string>("Titulo")
+                    b.Property<string>("TituloLibro")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -290,22 +296,22 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdPersona"));
 
-                    b.Property<string>("Apellido")
+                    b.Property<string>("ApellidoPersona")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<long>("DNI")
+                    b.Property<long>("DNIPersona")
                         .HasColumnType("bigint");
 
-                    b.Property<string>("Nacionalidad")
+                    b.Property<string>("NacionalidadPersona")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Nombre")
+                    b.Property<string>("NombrePersona")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Telefono")
+                    b.Property<string>("TelefonoPersona")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -366,7 +372,7 @@ namespace CDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdVenta"));
 
-                    b.Property<DateTime>("Fecha")
+                    b.Property<DateTime>("FechaVenta")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("IdCliente")
@@ -397,11 +403,11 @@ namespace CDatos.Migrations
 
             modelBuilder.Entity("CEntidades.Entidades.Autor", b =>
                 {
-                    b.HasOne("CEntidades.Entidades.Persona", "Persona")
+                    b.HasOne("CEntidades.Entidades.Persona", "PersonaAutor")
                         .WithOne("Autor")
                         .HasForeignKey("CEntidades.Entidades.Autor", "IdPersona");
 
-                    b.Navigation("Persona");
+                    b.Navigation("PersonaAutor");
                 });
 
             modelBuilder.Entity("CEntidades.Entidades.AutorLibro", b =>
@@ -421,11 +427,11 @@ namespace CDatos.Migrations
 
             modelBuilder.Entity("CEntidades.Entidades.Cliente", b =>
                 {
-                    b.HasOne("CEntidades.Entidades.Persona", "Persona")
+                    b.HasOne("CEntidades.Entidades.Persona", "PersonaCliente")
                         .WithOne("Cliente")
                         .HasForeignKey("CEntidades.Entidades.Cliente", "IdPersona");
 
-                    b.Navigation("Persona");
+                    b.Navigation("PersonaCliente");
                 });
 
             modelBuilder.Entity("CEntidades.Entidades.Copia", b =>
@@ -439,11 +445,11 @@ namespace CDatos.Migrations
 
             modelBuilder.Entity("CEntidades.Entidades.Empleado", b =>
                 {
-                    b.HasOne("CEntidades.Entidades.Persona", "Persona")
+                    b.HasOne("CEntidades.Entidades.Persona", "PersonaEmpleado")
                         .WithOne("Empleado")
                         .HasForeignKey("CEntidades.Entidades.Empleado", "IdPersona");
 
-                    b.Navigation("Persona");
+                    b.Navigation("PersonaEmpleado");
                 });
 
             modelBuilder.Entity("CEntidades.Entidades.GeneroLibro", b =>

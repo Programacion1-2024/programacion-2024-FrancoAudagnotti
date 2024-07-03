@@ -43,15 +43,15 @@ namespace CDatos.Contexts
                 entity.HasKey(e => e.IdPersona)
                     .HasName("PK_ID_PERSONA");
                 entity.HasOne(e => e.Autor)
-                    .WithOne(e => e.PersonaAutor)
+                    .WithOne(e => e.Persona)
                     .HasForeignKey<Autor>("IdPersona")
                     .IsRequired(false);
                 entity.HasOne(e => e.Cliente)
-                    .WithOne(e => e.PersonaCliente)
+                    .WithOne(e => e.Persona)
                     .HasForeignKey<Cliente>("IdPersona")
                     .IsRequired(false);
                 entity.HasOne(e => e.Empleado)
-                    .WithOne(e => e.PersonaEmpleado)
+                    .WithOne(e => e.Persona)
                     .HasForeignKey<Empleado>("IdPersona")
                     .IsRequired(false);
             });
@@ -85,12 +85,24 @@ namespace CDatos.Contexts
             {
                 entity.HasKey(e => e.IdEmpleado)
                     .HasName("PK_ID_EMPLEADO");
+                entity.HasMany(e => e.Ventas)
+                    .WithOne(e => e.Empleado)
+                    .HasForeignKey("IdEmpleado")
+                    .IsRequired();
+                entity.HasMany(e => e.Prestamos)
+                    .WithOne(e => e.Empleado)
+                    .HasForeignKey("IdEmpleado")
+                    .IsRequired();
             });
             modelBuilder.Entity<Libro>(entity =>
             {
                 entity.HasKey(e => e.IdLibro)
                     .HasName("PK_ID_LIBRO");
                 entity.HasMany(e => e.Copias)
+                    .WithOne(e => e.Libro)
+                    .HasForeignKey("IdLibro")
+                    .IsRequired(false);
+                entity.HasMany(e => e.Ventas)
                     .WithOne(e => e.Libro)
                     .HasForeignKey("IdLibro")
                     .IsRequired();
