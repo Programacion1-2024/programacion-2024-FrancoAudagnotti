@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBNpygWLs2LWWJTwnGHiZUVNhcpeB/GyKxrujPxvWweQb9+XPHWRrOqxfxIT8wce/kEtLUB/u9ko7odE5Vrr/Q==",
+  "dgSpecHash": "z92CtyR1gSq3Q2p6BItOS1KGC2N0Aw3DjuCYGkdBCYXYkEfzwtg+7mR7pYjkV9rCH56YJeBGeLDA5dUOwNx6Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\Need for Speed\\Need for Speed\\Need for Speed.csproj",
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\Need for Speed\\Need for Speed\\Need for Speed.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

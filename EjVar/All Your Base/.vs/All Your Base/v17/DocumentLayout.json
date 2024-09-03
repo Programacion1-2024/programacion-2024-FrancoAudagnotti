@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\All Your Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB079F-3487-4A76-B605-057D81E51B7B}|All Your Base\\All Your Base.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\ejvar\\all your base\\all your base\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFB079F-3487-4A76-B605-057D81E51B7B}|All Your Base\\All Your Base.csproj|solutionrelative:all your base\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB079F-3487-4A76-B605-057D81E51B7B}|All Your Base\\All Your Base.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\ejvar\\all your base\\all your base\\allyourbasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFB079F-3487-4A76-B605-057D81E51B7B}|All Your Base\\All Your Base.csproj|solutionrelative:all your base\\allyourbasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\All Your Base\\All Your Base\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "All Your Base\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\All Your Base\\All Your Base\\Ejercicio.cs*",
+              "RelativeToolTip": "All Your Base\\Ejercicio.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:49:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllYourBaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\All Your Base\\All Your Base\\AllYourBaseTests.cs",
+              "RelativeDocumentMoniker": "All Your Base\\AllYourBaseTests.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\All Your Base\\All Your Base\\AllYourBaseTests.cs",
+              "RelativeToolTip": "All Your Base\\AllYourBaseTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:49:21.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

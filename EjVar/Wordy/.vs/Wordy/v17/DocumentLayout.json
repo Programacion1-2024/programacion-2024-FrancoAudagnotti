@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\Wordy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B85D0F-145D-470A-BA60-E1061F456235}|Wordy\\Wordy.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\ejvar\\wordy\\wordy\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B85D0F-145D-470A-BA60-E1061F456235}|Wordy\\Wordy.csproj|solutionrelative:wordy\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B85D0F-145D-470A-BA60-E1061F456235}|Wordy\\Wordy.csproj|c:\\users\\franc\\onedrive\\documentos\\gtihub(2)\\programacion-2024-francoaudagnotti\\ejvar\\wordy\\wordy\\wordytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B85D0F-145D-470A-BA60-E1061F456235}|Wordy\\Wordy.csproj|solutionrelative:wordy\\wordytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\Wordy\\Wordy\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Wordy\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\Wordy\\Wordy\\Ejercicio.cs",
+              "RelativeToolTip": "Wordy\\Ejercicio.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAUwHUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:03:10.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordyTests.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\Wordy\\Wordy\\WordyTests.cs",
+              "RelativeDocumentMoniker": "Wordy\\WordyTests.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\GtiHub(2)\\programacion-2024-FrancoAudagnotti\\EjVar\\Wordy\\Wordy\\WordyTests.cs",
+              "RelativeToolTip": "Wordy\\WordyTests.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:03:13.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

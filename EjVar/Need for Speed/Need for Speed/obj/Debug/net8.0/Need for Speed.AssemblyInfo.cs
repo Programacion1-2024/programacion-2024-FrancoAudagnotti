@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Need for Speed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faff4b58da9e8c0582fe9af19cc53a93c1a71bef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+411085366035e82eb5eac197b433c6eaff5dfeba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Need for Speed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Need for Speed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

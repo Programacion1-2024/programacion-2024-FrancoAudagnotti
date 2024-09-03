@@ -1,0 +1,6 @@
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\EjVar\Dos Por\Dos Por\obj\Debug\net8.0\Dos Por.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\EjVar\Dos Por\Dos Por\obj\Debug\net8.0\Dos Por.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\EjVar\Dos Por\Dos Por\obj\Debug\net8.0\Dos Por.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\EjVar\Dos Por\Dos Por\obj\Debug\net8.0\Dos Por.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\EjVar\Dos Por\Dos Por\obj\Debug\net8.0\Dos Por.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GtiHub(2)\programacion-2024-FrancoAudagnotti\EjVar\Dos Por\Dos Por\obj\Debug\net8.0\Dos Por.sourcelink.json

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotational Cipher", "Rotational Cipher\Rotational Cipher.csproj", "{6E030BA5-B5B8-485B-BB68-AFC34F3EF79E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E030BA5-B5B8-485B-BB68-AFC34F3EF79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E030BA5-B5B8-485B-BB68-AFC34F3EF79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E030BA5-B5B8-485B-BB68-AFC34F3EF79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E030BA5-B5B8-485B-BB68-AFC34F3EF79E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C6FEBA-32B9-4761-8DD6-2DD500E7206D}
+	EndGlobalSection
+EndGlobal
